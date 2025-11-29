@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # --- CONFIG ---
-BOT_TOKEN = "7877215240:AAHJaRYZDLWaneRniFEvVDpNgLmglthSewQ"
+BOT_TOKEN = "8573437607:AAHoJis3QwZlbNgi5ttPIpFAWS5E-hYVaRw"
 POLL_INTERVAL = 10  # segundos entre consultas (ajusta si quieres menos llamado)
 
 # Estructura:
